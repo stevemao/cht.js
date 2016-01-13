@@ -1,0 +1,22 @@
+{
+  "name": "cht.js",
+  "version": "1.0.0",
+  "description": "Your very cht",
+  "bin": "cht.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/cht.js.git"
+  },
+  "keywords": [
+    "cht",
+    "ascii",
+    "color",
+    "digital"
+  ],
+  "author": "Steve Mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevemao/cht.js/issues"
+  },
+  "homepage": "https://github.com/stevemao/cht.js#readme"
+}
